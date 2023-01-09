@@ -1,0 +1,40 @@
+{
+    "rules": [
+        {
+            "title": "1. No spam in any form (text, emojis(max: 5), videos, pictures, etc.).",
+            "desc": "Spam is of course strictly prohibited, even in the [Guidelines](https://dis.gd/guidelines) itself it is very clear that spam is strictly prohibited in Discord (guidelines number 18, section **Finally, we ask that you respect Discord itself**). And because of that, we limit the use of things like the number of emojis, and we limit it to 5 emojis in each message."
+        },
+        {
+            "title": "2. Respect each other.",
+            "desc": "Like rule number 1, and this is closely related to the [Guidelines](https://dis.gd/guidelines) that have been made by Discord, numbers 1, 2, and 3."
+        },
+        {
+            "title": "3. Self-promotion can only be done on self-promotion.",
+            "desc": "Promotion-related matters such as youtube channels, Discord servers, Twitch channels, etc., can only be done on #📰│self-promotion. However, the things you promote are things that Discord doesn't prohibit. You can see things that are prohibited by Discord in [Guidelines](https://dis.gd/guidelines) number 8-14.\n\nNote, if you can't access this channel, read this FAQ message first:\n👉 https://discord.com/channels/706744372326039573/828495522368323605/831038975883477002"
+        },
+        {
+            "title": "4. You can swearing, but not at, the members of this server and don't overdo it.",
+            "desc": "Our server freed up \"swearing\" a bit. But that doesn't mean you can swear at any time, there are times when you can use bad words, but with some conditions: censor 1 or more letters in the word, so as not to disturb other members.\n\nIf you want to know badwords that porhibited in FNaF Multiverse, click this link 👉 https://discord.com/channels/706744372326039573/828495522368323605/831821224559771681"
+        },
+        {
+            "title": "5. The main language is English.",
+            "desc": "FNaF Multiverse is a public server whose members are not only from one country, but from many countries. Therefore, the common language used on this server is English. However, we provide multiple language channels for you to use other languages."
+        },
+        {
+            "title": "6. You can give suggestion, but don't overdo it.",
+            "desc": "We really appreciate your suggestions. In fact, we do our best to comply with your suggestions. However, there are some suggestions that we don't accept for one reason: breaking the rules.\n\nWe don't accept suggestions like creating NSFW channels or spam because they violate Discord guidelines. In addition, we are not very receptive to bot suggestions.\n\nNote: If you want to give suggestions, you should include how the bot works, what it is for, then include a screenshot of when this bot was used, to confirm that the bot you say is a pretty good bot."
+        },
+        {
+            "title": "7. No NSFW, homophobic, racism, and criminal content.",
+            "desc": "For things like this, of course it is strictly prohibited even within the Guidelines Discord itself, for punishments from violators of this rule, you can click the link below:\n👉 https://discord.com/channels/706744372326039573/828495522368323605/831038948192419841"
+        },
+        {
+            "title": "8. No begging.",
+            "desc": "Do not beg for anything on this server, including begging for staff, roles, and others. The punishment for these beggars will be commemorated 3 times. After getting 3x warnings and still trying to beg, the next punishment will be discussed by the staff team, and the worst punishment of this is permanent ban from this server."
+        },
+        {
+            "title": "9. Follow Discord ToS and Guidelines.",
+            "desc": "This rule clearly must be obeyed, because when you create a Discord account, it means that you are ready to follow every Discord [Guidelines](https://dis.gd/guidelines) and [ToS](https://dis.gd/terms) that have been officially made by Discord staff."
+        }
+    ]
+}
