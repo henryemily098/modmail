@@ -103,6 +103,4 @@ const listener = server.listen(PORT, function() {
     console.log(`Listen to port: ${listener.address().port}`);
 });
 
-app.get("/", (req, res) => {
-    res.send(`${client.user.tag} its ready!`);
-});
+app.get("/", (req, res) => res.send("Hello!"));
